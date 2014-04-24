@@ -1,0 +1,18 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 22, 2014, 9:18:25 PM
+    Author     : Jannah
+*/
+
+#tooltip {
+  position: absolute;
+  width: 200px;
+  /* height: 28px; */
+  pointer-events: none;
+  background-color:white;
+  z-index: 200;
+}
